@@ -44,4 +44,5 @@ class SumCalculatorTest {
 
         Assertions.assertThrows(IllegalArgumentException.class, () -> calculator.sum(inputNumber));
     }
+
 }

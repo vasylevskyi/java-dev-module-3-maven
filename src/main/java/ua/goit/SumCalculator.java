@@ -13,4 +13,5 @@ public class SumCalculator {
         else
             return 0;
     }
+
 }

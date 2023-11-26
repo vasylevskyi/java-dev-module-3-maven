@@ -15,4 +15,5 @@ public class App {
         System.out.printf("Sum of " + number + " = " + sum);
 
     }
+
 }
